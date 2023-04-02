@@ -5,7 +5,9 @@ Copy audionya terlebih dahulu ke PS C:\Users\(Nama Laptopmu> ...Disini saya mele
 Setelah mengcopy audionya, lalu buka kedua file python tersebut
 Lalu, jalankan file yang bernama "Windows Suara Hewan"
 
-![Screenshot (296)](https://user-images.githubusercontent.com/126770464/229369340-b5fbf62b-2929-4a24-ac1c-167bc37f92c7.png)
+
+![Screenshot (297)](https://user-images.githubusercontent.com/126770464/229370622-bcebcc1e-4f23-4160-94c7-c08fa0d6d5be.png)
+
 
 Ketika sudah muncul seperti itu maka sudah berhasil!
 Tinggal jalankan saja & pilih suara hewan yang ingin diputar!!
