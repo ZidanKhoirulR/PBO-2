@@ -13,4 +13,4 @@ Tinggal jalankan saja & pilih suara hewan yang ingin diputar!!
 
 =====================CARA INSTALL PLAYSOUND=====================
 Tekan *Windows + R*, lalu ketik cmd
-lalu tulis $pip install playsound
+lalu tulis $pip install playsound 
